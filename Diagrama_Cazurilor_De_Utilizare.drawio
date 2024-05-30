@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T18:27:54.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="D7chTL2Xybc7AW2Mr84L" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T20:15:09.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7J7w8dhOGZ_Ig50NNWgN" version="24.4.10" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="964" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="17acba5748e5396b-1" value="Adventure.init" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;width=100;height=40;" parent="1" vertex="1">
-          <mxGeometry x="150" y="30" width="1040" height="890" as="geometry" />
+          <mxGeometry x="150" y="70" width="730" height="630" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-2" value="Jucător" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-3" value="Pornește joc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="120" height="70" as="geometry" />
+          <mxGeometry x="340" y="130" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-4" value="Control personaj principal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="120" height="80" as="geometry" />
@@ -24,10 +24,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-6" value="Oprește joc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-7" value="Modifică setările sesiunii de joc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bsHqmaVg7NzJC29U96IB-2" target="bsHqmaVg7NzJC29U96IB-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,13 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-15" value="Atacă inamici" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="650" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-16" value="Colectează resurse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="730" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-17" value="Interacționează cu obiectele din jur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsHqmaVg7NzJC29U96IB-4" target="bsHqmaVg7NzJC29U96IB-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-24" value="Modifică volumul melodiei de fundal și al altor efecte sonore" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="150" width="180" height="80" as="geometry" />
+          <mxGeometry x="550" y="190" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bsHqmaVg7NzJC29U96IB-7" target="bsHqmaVg7NzJC29U96IB-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,7 +124,7 @@
           <mxGeometry x="550" y="570" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-29" value="Eliminare iteme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="560" width="130" height="90" as="geometry" />
+          <mxGeometry x="345" y="550" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsHqmaVg7NzJC29U96IB-12" target="bsHqmaVg7NzJC29U96IB-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-45" value="Îmbunătățirea statusurilor personajului" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bsHqmaVg7NzJC29U96IB-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bsHqmaVg7NzJC29U96IB-2" target="bsHqmaVg7NzJC29U96IB-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
