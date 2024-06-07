@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T15:49:21.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qSzrGdAfoJzAXnY7Do5-" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T16:57:41.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H89DMCIxcxzKeQ3wd-73" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2620" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3695" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="wnzv7r38K7r5noPQuOlt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-0" target="wnzv7r38K7r5noPQuOlt-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-24" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Apăsarea butonului Quit&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-23">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-24" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea butonului Quit&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-23">
           <mxGeometry x="0.4696" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-83" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-0" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -24,48 +24,57 @@
           <mxGeometry x="-120" y="670" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-4" target="wnzv7r38K7r5noPQuOlt-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-26" value="Pornirea jocului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-25">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-26" value="Pornirea jocului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-25">
           <mxGeometry x="-0.2629" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Inactiv&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="290" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-4" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Inactiv&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="310" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-6" target="wnzv7r38K7r5noPQuOlt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-29" value="Apăsarea butonului &quot;Settings&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-28">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-29" value="&lt;b&gt;Apăsarea butonului &quot;Settings&quot;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-28">
           <mxGeometry x="0.14" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-6" target="wnzv7r38K7r5noPQuOlt-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="660" />
+              <mxPoint x="485" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-34" value="Apăsarea butonului &quot;Start&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-33">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-34" value="Apăsarea butonului &quot;Start&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-33">
           <mxGeometry x="-0.3431" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Ecran Start&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Ecran Start&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-12" target="wnzv7r38K7r5noPQuOlt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-31" value="Apăsarea butonului &quot;Back&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-30">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-31" value="Apăsarea butonului &quot;Back&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-30">
           <mxGeometry x="-0.2243" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Fereastră configurare setări&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="290" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Fereastră configurare setări&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="290" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Închidere joc&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="25" y="500" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-17" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Închidere joc&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-17" target="wnzv7r38K7r5noPQuOlt-2">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +85,7 @@
         <mxCell id="wnzv7r38K7r5noPQuOlt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-37" value="Apăsarea tastei &quot;Esc&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-36">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-37" value="Apăsarea tastei &quot;ESC&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-36">
           <mxGeometry x="0.0952" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -84,69 +93,99 @@
         <mxCell id="wnzv7r38K7r5noPQuOlt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="775" />
-              <mxPoint x="770" y="775" />
-              <mxPoint x="770" y="820" />
+              <mxPoint x="590" y="790" />
+              <mxPoint x="770" y="790" />
+              <mxPoint x="770" y="830" />
+              <mxPoint x="1370" y="830" />
+              <mxPoint x="1370" y="905" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-44" value="Apăsarea tastei &quot;E&quot; în proximitatea mesei de lucru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-43">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-44" value="Apăsarea tastei &quot;E&quot; în proximitatea mesei de lucru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-43">
           <mxGeometry x="-0.2293" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-49" value="Apăsarea tastei &quot;E&quot; în proximitatea vânzătorului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-48">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-49" value="Apăsarea tastei &quot;E&quot; în proximitatea vânzătorului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-48">
           <mxGeometry x="-0.1322" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="101" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="755" />
+              <mxPoint x="460" y="1280" />
+              <mxPoint x="970" y="1280" />
+              <mxPoint x="970" y="1258" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-54" value="Apăsarea tastei &quot;E&quot; în proximitatea furnalului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-52">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-54" value="Apăsarea tastei &quot;E&quot; în proximitatea furnalului" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-52">
           <mxGeometry x="0.488" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-59" value="Apăsarea tastei &quot;E&quot; în proximitatea vrăjitoarei&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-58">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-59" value="Apăsarea tastei &quot;E&quot; în proximitatea vrăjitoarei&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-58">
           <mxGeometry x="0.2997" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-63">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="710" />
+              <mxPoint x="240" y="1250" />
+              <mxPoint x="220" y="1250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-65" value="Jucătorul nu a reușit să tremine jocul" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-64">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-65" value="Jucătorul nu a reușit&amp;nbsp;&lt;div&gt;să tremine jocul&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1;rotation=-90;" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-64">
           <mxGeometry x="-0.0159" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="108" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-32" target="wnzv7r38K7r5noPQuOlt-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="630" />
-              <mxPoint x="1055" y="630" />
+              <mxPoint x="1068" y="630" />
+              <mxPoint x="1068" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-77" value="Înfrângere Dragon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-76">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-77" value="Înfrângere Dragon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-76">
           <mxGeometry x="0.0806" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Joc în desfășurare&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="725" as="sourcePoint" />
+            <mxPoint x="330" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnzv7r38K7r5noPQuOlt-88" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea tastei &quot;I&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-87">
+          <mxGeometry x="-0.3508" y="3" relative="1" as="geometry">
+            <mxPoint x="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnzv7r38K7r5noPQuOlt-32" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Joc în desfășurare&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="695" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-35" target="wnzv7r38K7r5noPQuOlt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-39" value="Apăsarea butonului &quot;MainMenu&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-38">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-39" value="Apăsarea butonului &quot;MainMenu&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-38">
           <mxGeometry x="0.1883" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -159,21 +198,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-41" value="Apăsarea butonului &quot;Back&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-40">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea butonului &quot;Back&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-40">
           <mxGeometry x="0.207" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Fereastra &quot;Pauză&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-35" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Fereastra &quot;Pauză&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="480" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-42" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică a mesei de lucru&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="820" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-42" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Interfața grafică a mesei de lucru&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="860" width="219" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-42" target="wnzv7r38K7r5noPQuOlt-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-46" value="Apăsarea tastei &quot;E&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-45">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-46" value="Apăsarea tastei &quot;E&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-45">
           <mxGeometry x="0.0765" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -181,77 +220,99 @@
         <mxCell id="wnzv7r38K7r5noPQuOlt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-47" target="wnzv7r38K7r5noPQuOlt-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică a&amp;nbsp; magazinului&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="930" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-47" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică a&amp;nbsp; magazinului&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="1010" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-51" target="wnzv7r38K7r5noPQuOlt-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="1275" />
+              <mxPoint x="1050" y="1200" />
+              <mxPoint x="930" y="1200" />
+              <mxPoint x="930" y="1160" />
+              <mxPoint x="440" y="1160" />
+              <mxPoint x="440" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-55" value="Apăsarea tastei &quot;E&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-53">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-55" value="Apăsarea tastei &quot;E&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-53">
           <mxGeometry x="-0.3903" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-51" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică a&amp;nbsp; furnalului&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1030" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-51" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică a&amp;nbsp; furnalului&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1240" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-57" target="wnzv7r38K7r5noPQuOlt-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1220" y="655" />
-              <mxPoint x="1190" y="655" />
-              <mxPoint x="1190" y="720" />
-              <mxPoint x="590" y="720" />
+              <mxPoint x="1220" y="731" />
+              <mxPoint x="1220" y="720" />
+              <mxPoint x="630" y="720" />
+              <mxPoint x="630" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-62" value="Apăsarea tastei &quot;E&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-60">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea tastei &quot;E&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-60">
           <mxGeometry x="-0.3225" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-57" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică a pentru îmbunătățirea statusurilor&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1220" y="655" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-57" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică a pentru îmbunătățirea statusurilor&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="660" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-63" target="wnzv7r38K7r5noPQuOlt-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1220" />
+              <mxPoint x="90" y="950" />
+              <mxPoint x="200" y="950" />
+              <mxPoint x="200" y="690" />
+              <mxPoint x="450" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-67" value="Apăsarea butonului &quot;Restart&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-66">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-67" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea butonului&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Restart&quot;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-66">
           <mxGeometry x="-0.3136" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="20" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-63" target="wnzv7r38K7r5noPQuOlt-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="115" y="650" />
+              <mxPoint x="10" y="1220" />
+              <mxPoint x="10" y="650" />
               <mxPoint x="290" y="650" />
               <mxPoint x="290" y="400" />
               <mxPoint x="395" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-69" value="Apăsarea butonului &quot;MainMenu&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-68">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-69" value="Apăsarea butonului&amp;nbsp;&lt;div&gt;&quot;MainMenu&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-68">
           <mxGeometry x="-0.2142" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-37" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-63" target="wnzv7r38K7r5noPQuOlt-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="965" />
-              <mxPoint x="30" y="755" />
-              <mxPoint x="95" y="755" />
+              <mxPoint x="-40" y="1235" />
+              <mxPoint x="-40" y="1135" />
+              <mxPoint x="-190" y="1135" />
+              <mxPoint x="-190" y="755" />
+              <mxPoint x="-50" y="755" />
+              <mxPoint x="-50" y="560" />
+              <mxPoint x="-60" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-72" value="Apăsarea butonului &quot;Quit&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-70">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-72" value="Apăsarea butonului &quot;Quit&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-70">
           <mxGeometry x="-0.3479" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică &quot;GameOver&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="950" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-63" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică &quot;GameOver&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="1220" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wnzv7r38K7r5noPQuOlt-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-74" target="wnzv7r38K7r5noPQuOlt-32">
           <mxGeometry relative="1" as="geometry">
@@ -263,7 +324,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-78" value="Apăsarea butonului &quot;Continue Playing&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-75">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-78" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea butonului &quot;Continue Playing&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-75">
           <mxGeometry x="0.1528" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -276,19 +337,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-80" value="Apăsarea butonului &quot;Quit&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-79">
+        <mxCell id="wnzv7r38K7r5noPQuOlt-80" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea butonului &quot;Quit&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wnzv7r38K7r5noPQuOlt-79">
           <mxGeometry x="-0.1466" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-446" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-74" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Interfața grafică &quot;Congratulations&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="530" width="140" height="60" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-74" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică &quot;Congratulations&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&quot;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="480" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-81" value="Starea inițială" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="158" width="100" height="30" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-81" value="Starea inițială" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="153" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wnzv7r38K7r5noPQuOlt-82" value="Starea finală" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="710" width="90" height="30" as="geometry" />
+        <mxCell id="wnzv7r38K7r5noPQuOlt-82" value="Starea finală" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-295" y="665" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnzv7r38K7r5noPQuOlt-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wnzv7r38K7r5noPQuOlt-86" target="wnzv7r38K7r5noPQuOlt-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnzv7r38K7r5noPQuOlt-86" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Interfața grafică a inventarului&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1330" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnzv7r38K7r5noPQuOlt-90" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Apăsarea tastei &quot;I&quot;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="960.0017523479984" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
